@@ -1,0 +1,26 @@
+.graph{
+              height: 4rem;
+              width: 90vw;
+              background:white;
+              margin-left: 60px;
+              flex: 1;
+              display: flex;
+              flex-direction: row;
+
+            
+}
+.graph_content{
+            background: rgb(227, 227, 247);
+}
+.data{
+            display: flex;
+            flex-direction: column;
+             flex: 1;
+            margin-left: 30px;
+            justify-content: center;
+         
+}
+.graph_styling{
+              display: flex;
+              flex: 4;
+}

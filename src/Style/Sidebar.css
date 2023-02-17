@@ -1,0 +1,212 @@
+.menu {
+              margin: 2rem;
+              display: flex;
+              flex-direction: column;
+              gap: 2rem;
+              width: fit-content;
+              height: fit-content;
+}
+
+.menu_item {
+              display: flex;
+              align-items: center;
+}
+.head_heading{
+  color: rgb(41, 41, 114);
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+.detailss {
+              margin-top: 2rem;
+              display: flex;
+              margin-bottom: 2rem;
+}
+
+.detailss>span {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              margin-left: 20px;
+              font-size: .8rem;
+}
+
+.totalEarning {
+              margin-bottom: 25px;
+              text-align: center;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              width: 70px;
+              height: 70px;
+              background: #8676FF;
+              border-radius: 20px;
+}
+
+.sales {
+              width: 70px;
+              height: 70px;
+              background: #66C8FF;
+              border-radius: 20px;
+              margin-bottom: 25px;
+              text-align: center;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+}
+
+.purchase {
+              width: 70px;
+              height: 70px;
+              background: #FF9066;
+              border-radius: 20px;
+              margin-bottom: 25px;
+              text-align: center;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+}
+.sales_details{
+              padding-top: 30px;
+}
+.sales_details1{
+  display: flex;            
+}
+.sales_details2{
+              display: flex;            
+}
+.sales_details3{
+              display: flex;            
+}
+.totals{
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              padding: 14px;
+              margin-left: 11px;
+}
+span{
+              font-weight: bold;
+}
+
+
+.contains{
+              
+              height: 80vh;
+             
+}
+.partition{
+              display: flex;
+              background: rgb(227, 227, 247);
+}
+
+/* multiple divs */
+
+.containing{
+  position: relative;
+  display: flex;
+
+}
+.chicago{
+  width: 120px;
+  height: 70px;
+  /* background: skyblue; */
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20px;
+  align-items: center;
+  position: relative;
+  top: 141px;
+  left: 98px;
+border-radius: 15px;
+cursor: pointer;
+}
+
+.Berlin{
+  width: 120px;
+  height: 70px;
+  /* background: rgb(255, 197, 90); */
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20px;
+  align-items: center;
+  position: relative;
+  top: 59px;
+  left: 244px;
+  top: 502px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.Singapore{
+  width: 120px;
+  height: 70px;
+  /* background: rgb(125, 197, 43); */
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20px;
+  align-items: center;
+  position: relative;
+  top: 393px;
+  right: 183px;
+    border-radius: 15px;
+    cursor: pointer;
+  
+}
+
+.Quatar{
+  width: 120px;
+  height: 70px;
+  /* background: rgb(241, 169, 156); */
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20px;
+  align-items: center;
+  position: relative;
+  top: 277px;
+  border-radius: 15px;
+  cursor: pointer;
+ 
+}
+
+.Morocco{
+  width: 120px;
+  height: 70px;
+  /* background: rgb(200, 117, 255); */
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20px;
+  align-items: center;
+  position: relative;
+  top: 342px;
+  left: 266px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.Australia{
+  width: 120px;
+  height: 70px;
+  /* background: rgb(235, 39, 169); */
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20px;
+  align-items: center;
+  position: relative;
+  top: 104px;
+  left: 7px;
+  border-radius: 15px;
+  cursor: pointer;
+}

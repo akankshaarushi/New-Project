@@ -1,0 +1,13 @@
+.cont{
+              height: fit-content;
+              box-shadow: rgba(14, 13, 13, 0.15) 0px 2px 8px;
+              background: rgb(191, 191, 223);
+              
+}
+.text{
+              display: flex;
+              justify-content: space-between;
+              margin-left: 30px;
+              margin-right: 30px;
+              
+}
